@@ -1,6 +1,6 @@
 # jupyter-notebookのファイル
 pythonでデータ分析
 
-##networkxとか
+## networkxとか
 
 - Spotify APIを用いたネットワーク分析とか
